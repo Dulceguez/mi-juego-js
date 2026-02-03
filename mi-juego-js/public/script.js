@@ -1,3 +1,4 @@
+console.log("JS cargado correctamente");
 const socket = io(); //Se conecta al server en tiempo real usando socker.io
 let jugadorId = null;
 let jugadores = []; //Lista de jugadores activos
